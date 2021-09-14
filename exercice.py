@@ -47,7 +47,7 @@ def get_number_of_char(string: str, char: str) -> int:
 
 def get_number_of_words(sentence: str, word: str) -> int:
     liste_mots = sentence.split()
-    print(liste_mots)
+ 
 
     a = 0
     nombre_occurence = 0
